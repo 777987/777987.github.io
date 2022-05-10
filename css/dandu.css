@@ -1,0 +1,75 @@
+			.qcx11{
+				margin: 20px auto;
+				height: 50px;
+				width: 841px;
+				line-height: 50px;
+				
+			}
+			.let p{
+				margin: 0;
+				font-size: 18px;
+				color: #424242;
+				text-indent: 1em;		
+				}
+			.let{
+				float: left;
+			}
+			.rig11{
+				margin-right: 20px;
+				float: right;
+				width: 30px;
+				height: 30px;
+				border-radius: 50%;
+				position: relative;
+				margin-top: 8px;
+				overflow: hidden;
+			}
+			.rig11:hover{
+				background-color: rgba(229, 57, 53);
+			}
+			.rig11 img{
+				position: absolute;
+				top: 5px;
+				left: 5px;
+				
+			}
+			.rig11:hover img{
+				transform: translateY(-30px);
+				filter: drop-shadow(#fff 0 30px);
+			}
+			.iuos{
+				font-size: 32px;
+				color: #424242;
+				text-align: center;
+			}
+			.lisux{
+				font-size: 18px;
+				color: #333333;
+				text-align: center;
+			}
+		/* 	第二内容 */
+		.chanq{
+			width: 841px;
+			height: 481px;
+		}
+		.chanh{
+			width: 841px;
+		}
+		.jingp{
+			width: 140px;
+			height: 50px;
+			background-color: white;
+			float: left;
+			margin-left: 23px;
+			line-height: 50px;
+			text-align: center;
+			margin-top: 15px;
+			font-size: 14px;
+			color: #757575;
+		}
+		.jingp:hover  p{
+			background-color: #FF6700;
+			color: white;
+		}
+	
+		
